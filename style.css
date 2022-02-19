@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+span {
+    font-size: 19px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+}
+
+canvas {
+    background: #72b1a6;
+    box-shadow: 0 -10px 4.5px 3px #72b1a6;
+}
